@@ -1,4 +1,6 @@
-# cms-medicare-partd-opioid-analysis
+# CMS Medicare Part D Opioid Prescribing Analysis
+
+### Healthcare Analytics Portfolio Project
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Healthcare Analytics](https://img.shields.io/badge/Healthcare-Analytics-blue?style=for-the-badge)
