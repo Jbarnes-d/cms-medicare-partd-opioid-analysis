@@ -21,7 +21,7 @@
 ## State Comparison
 
 <p align="center">
-  <img src="figures/charts/top_20_states_2022.png" width="800">
+  <img src="figures/charts/top20_states_by_opioid_prescribing_rate (2022).png" width="800">
 </p>
 
 
