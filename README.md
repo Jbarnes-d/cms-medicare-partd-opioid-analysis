@@ -5,13 +5,6 @@
 ![GIS](https://img.shields.io/badge/GIS-Spatial%20Analysis-green?style=for-the-badge)
 ![CMS Data](https://img.shields.io/badge/Data-CMS%20Medicare-orange?style=for-the-badge)
 
-## Featured Visualization
-
-<p align="center">
-  <img src="figures/maps/us_map.jpg" width="750">
-</p>
-
-
 ### National Opioid Prescribing Trend
 
 <p align="center">
