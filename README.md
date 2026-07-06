@@ -11,11 +11,6 @@
   <img src="figures/maps/us_map.jpg" width="750">
 </p>
 
-## Featured Visualization
-
-<p align="center">
-  <img src="figures/maps/us_map.jpg" width="750">
-</p>
 
 ### National Opioid Prescribing Trend
 
