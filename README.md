@@ -6,13 +6,23 @@
 ![CMS Data](https://img.shields.io/badge/Data-CMS%20Medicare-orange?style=for-the-badge)
 
 
-### National Opioid Prescribing Trend
+## National Opioid Prescribing Trend
 
 <p align="center">
   <img src="figures/charts/average_opioid_prescribing_rate_by_year.png" width="800">
 </p>
 
+## Geographic Distribution
 
+<p align="center">
+  <img src="figures/maps/us_map.jpg" width="800">
+</p>
+
+## State Comparison
+
+<p align="center">
+  <img src="figures/charts/top_20_states_2022.png" width="800">
+</p>
 
 ## Project Overview
 
