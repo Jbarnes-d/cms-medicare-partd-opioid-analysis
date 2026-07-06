@@ -16,7 +16,7 @@
   <img src="figures/maps/us_map.jpg" width="800">
 </p>
 
-The national opioid prescribing rate declined steadily from 2013 through 2022, demonstrating an overall reduction in Medicare Part D opioid prescribing over the study period.
+* County-level opioid prescribing rates across the United States.
 
 ## National Opioid Prescribing Trend
 
@@ -24,12 +24,15 @@ The national opioid prescribing rate declined steadily from 2013 through 2022, d
   <img src="figures/charts/average_opioid_prescribing_rate_by_year.png" width="800">
 </p>
 
+* National Medicare Part D opioid prescribing rates declined between 2013 and 2022.
 
 ## State Comparison
 
 <p align="center">
   <img src="figures/charts/top20_states_by_opioid_prescribing_rate (2022).png" width="800">
 </p>
+
+* Top 20 states by Medicare Part D opioid prescribing rate.
 
 
 
