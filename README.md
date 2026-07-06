@@ -16,6 +16,7 @@
   <img src="figures/maps/us_map.jpg" width="800">
 </p>
 
+# The national opioid prescribing rate declined steadily from 2013 through 2022, demonstrating an overall reduction in Medicare Part D opioid prescribing over the study period.
 
 ## National Opioid Prescribing Trend
 
@@ -32,9 +33,6 @@
 
 
 
-
-
-
 ## Project Overview
 
 This project analyzes opioid prescribing patterns among Medicare Part D beneficiaries in the United States using publicly available Centers for Medicare & Medicaid Services (CMS) data.
@@ -42,6 +40,15 @@ This project analyzes opioid prescribing patterns among Medicare Part D benefici
 The analysis examines national prescribing trends between **2013 and 2022**, identifies geographic variation at the state and county levels, and uses geographic information systems (GIS) to visualize opioid prescribing rates through county-level choropleth maps.
 
 This project was completed as part of my Master of Public Health (Health Informatics) capstone and demonstrates practical healthcare analytics using real-world public health data.
+
+---
+## Results at a Glance
+
+- 📉 National opioid prescribing declined from 2013–2022.
+- 🗺️ Geographic disparities persisted across U.S. counties.
+- 🌾 Rural counties generally experienced higher prescribing rates.
+- 📊 County-level GIS analysis identified regional prescribing hotspots.
+
 
 ---
 
@@ -156,7 +163,14 @@ This repository includes:
 The complete capstone research paper is available in the `report` folder and describes the study methodology, statistical analyses, findings, discussion, and limitations.
 
 ---
+## Future Work
 
+- Expand analyses using 2023 and later CMS releases.
+- Investigate socioeconomic and demographic predictors of prescribing.
+- Develop an interactive dashboard using Shiny or Plotly.
+- Compare prescribing trends with overdose mortality data.
+
+---
 ## About Me
 
 **Josiah Barnes**
