@@ -7,7 +7,7 @@
 ![GIS](https://img.shields.io/badge/GIS-Spatial%20Analysis-green?style=for-the-badge)
 ![CMS Data](https://img.shields.io/badge/Data-CMS%20Medicare-orange?style=for-the-badge)
 
-# An end-to-end healthcare analytics project using CMS Medicare Part D Public Use Files to analyze national opioid prescribing trends through statistical analysis, GIS mapping, and data visualization.
+*An end-to-end healthcare analytics project using CMS Medicare Part D Public Use Files to analyze national opioid prescribing trends through statistical analysis, GIS mapping, and data visualization.
 
 
 ## Geographic Distribution
@@ -191,7 +191,9 @@ Interested in:
 - Public Health Research
 
 ---
+This project demonstrates skills in healthcare analytics, spatial analysis, data visualization, and statistical programming using publicly available CMS data.
 
+---
 ## Disclaimer
 
 This repository was developed for educational and research purposes using publicly available CMS data. The analyses and conclusions presented here are those of the author and do not represent the views of the Centers for Medicare & Medicaid Services.
