@@ -5,6 +5,12 @@
 ![GIS](https://img.shields.io/badge/GIS-Spatial%20Analysis-green?style=for-the-badge)
 ![CMS Data](https://img.shields.io/badge/Data-CMS%20Medicare-orange?style=for-the-badge)
 
+## Featured Visualization
+
+<p align="center">
+  <img src="figures/maps/us_map.jpg" width="750">
+</p>
+
 ## Project Overview
 
 This project analyzes opioid prescribing patterns among Medicare Part D beneficiaries in the United States using publicly available Centers for Medicare & Medicaid Services (CMS) data.
