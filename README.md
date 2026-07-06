@@ -24,6 +24,7 @@
   <img src="figures/charts/top_20_states_2022.png" width="800">
 </p>
 
+
 ## Project Overview
 
 This project analyzes opioid prescribing patterns among Medicare Part D beneficiaries in the United States using publicly available Centers for Medicare & Medicaid Services (CMS) data.
