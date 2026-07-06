@@ -11,6 +11,31 @@
   <img src="figures/maps/us_map.jpg" width="750">
 </p>
 
+## Featured Visualization
+
+<p align="center">
+  <img src="figures/maps/us_map.jpg" width="750">
+</p>
+
+### National Opioid Prescribing Trend
+
+<p align="center">
+  <img src="figures/charts/average_opioid_prescribing_rate_by_year.png" width="800">
+</p>
+
+### State-Level Opioid Prescribing Rates
+
+<p align="center">
+  <img src="figures/charts/opioid_prescribing_rate_by_state.png" width="800">
+</p>
+
+### Top 20 States by Opioid Prescribing Rate
+
+<p align="center">
+  <img src="figures/charts/top_20_states_2022.png" width="800">
+</p>
+
+
 ## Project Overview
 
 This project analyzes opioid prescribing patterns among Medicare Part D beneficiaries in the United States using publicly available Centers for Medicare & Medicaid Services (CMS) data.
