@@ -9,6 +9,14 @@
 
 ### An end-to-end healthcare analytics project using CMS Medicare Part D Public Use Files to analyze national opioid prescribing trends through statistical analysis, GIS mapping, and data visualization.
 
+
+## Geographic Distribution
+
+<p align="center">
+  <img src="figures/maps/us_map.jpg" width="800">
+</p>
+
+
 ## National Opioid Prescribing Trend
 
 <p align="center">
@@ -23,12 +31,6 @@
 </p>
 
 
-
-## Geographic Distribution
-
-<p align="center">
-  <img src="figures/maps/us_map.jpg" width="800">
-</p>
 
 
 
