@@ -12,17 +12,6 @@
   <img src="figures/charts/average_opioid_prescribing_rate_by_year.png" width="800">
 </p>
 
-### State-Level Opioid Prescribing Rates
-
-<p align="center">
-  <img src="figures/charts/opioid_prescribing_rate_by_state.png" width="800">
-</p>
-
-### Top 20 States by Opioid Prescribing Rate
-
-<p align="center">
-  <img src="figures/charts/top_20_states_2022.png" width="800">
-</p>
 
 
 ## Project Overview
