@@ -174,23 +174,6 @@ The complete capstone research paper is available in the `report` folder and des
 - Compare prescribing trends with overdose mortality data.
 
 ---
-## About Me
-
-**Josiah Barnes**
-
-Master of Public Health (Health Informatics)
-
-Bachelor of Science in Biology
-
-Interested in:
-
-- Healthcare Data Analytics
-- Clinical Informatics
-- Population Health
-- Quality Improvement
-- Public Health Research
-
----
 This project demonstrates skills in healthcare analytics, spatial analysis, data visualization, and statistical programming using publicly available CMS data.
 
 ---
